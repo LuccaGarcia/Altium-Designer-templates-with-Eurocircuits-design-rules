@@ -1,6 +1,6 @@
 # Altium Designer templates with Euro Circuits design rules
 
-Since the begining of 2024 EuroCircuits decided to remove Altium tamplates and scripts from the website, this repo serves as a backup for those files.
+Since the begining of 2024 EuroCircuits decided to remove Altium templates and scripts from the website, this repo serves as a backup for those files.
 
 Files were downloaded from Euro Circuits on 19/dez/2023
 
