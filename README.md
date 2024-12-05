@@ -1,12 +1,12 @@
 # Altium Designer templates with Euro Circuits design rules
 
-Since the begining of 2024 EuroCircuits decided to remove Altium templates and scripts from the website, this repo serves as a backup for those files.
+Since the beginning of 2024 EuroCircuits decided to remove Altium templates and scripts from the website, this repo serves as a backup for those files.
 
 Files were downloaded from Euro Circuits on 19/dez/2023
 
 # The webpage went as follows:
 
-Altium Designer Templates ( PcbDoc) help to check your layout against the Eurocircuits technology classification ( 6C and 8D). This way you can easily define which Eurocircuits service is most suited for you board, and avoid documentation problems after you place your order.
+Altium Designer Templates (PcbDoc) help to check your layout against the Eurocircuits technology classification (6C and 8D). This way you can easily define which Eurocircuits service is most suited for your board, and avoid documentation problems after you place your order.
 
 ## There are 8 PcbDoc”s :
 ### Classification for PCB proto and Standard pool:
