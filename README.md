@@ -1,0 +1,1 @@
+# Altium-Designer-templates-with-Eurocircuits-design-rules
